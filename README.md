@@ -1,2 +1,2 @@
-# VehicleDataVisibility
-This repository is for a small project that would analyze vehicle data, mainly geological data, and determine which vehicles should be displayed.
+# Determining which vehicles to display based on geolocation
+A small project that would use Python to analyze data from vehicles' positions and determine which vehicles to display. It calculates the distance from a chosen origin and determines based on the result and the specifications if the vehicle should be displayed. This is one small part of a bigger project that analyzes all data sent from vehicles.
